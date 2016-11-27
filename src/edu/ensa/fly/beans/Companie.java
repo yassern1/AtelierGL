@@ -1,3 +1,4 @@
+package edu.ensa.fly.beans;
 public class Companie {
 	
 	private String id_comp;
@@ -7,7 +8,7 @@ public class Companie {
 		// TODO Auto-generated constructor stub
 	}
 	public Companie(String id, String nom){
-		this.id_comp_=id;
+		this.id_comp=id;
 		this.n_comp=nom;
 	}
 	

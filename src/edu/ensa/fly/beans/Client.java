@@ -1,3 +1,4 @@
+package edu.ensa.fly.beans;
 public class Client{
   private String id_clt;
   private String nom_clt;
