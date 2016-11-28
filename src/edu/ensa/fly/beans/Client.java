@@ -10,4 +10,23 @@ public class Client{
     this.nom_clt=nom;
     this.prenom_clt=prenom;
   }
+public String getId_clt() {
+	return id_clt;
+}
+public void setId_clt(String id_clt) {
+	this.id_clt = id_clt;
+}
+public String getNom_clt() {
+	return nom_clt;
+}
+public void setNom_clt(String nom_clt) {
+	this.nom_clt = nom_clt;
+}
+public String getPrenom_clt() {
+	return prenom_clt;
+}
+public void setPrenom_clt(String prenom_clt) {
+	this.prenom_clt = prenom_clt;
+}
+  
 }

@@ -2,7 +2,7 @@ package edu.ensa.fly.main;
 
 public class Principal {
 	public Principal(){
-		
+		getProjectDescription();
 	}
 
 	public static void main(String[] args) {

@@ -26,4 +26,27 @@
       </plugin>
     </plugins>
   </build>
+  <organization>
+    <name>ENSA ALHoceima</name>
+    <url>www.ensah.ma/</url>
+  </organization>
+  <developers>
+    <developer>
+      <id>AMY</id>
+      <name>Alami Yasser</name>
+      <email>yassern1@gmail.com</email>
+      <url>http://www.example.com/jdoe</url>
+      <organization>USMBA</organization>
+      <organizationUrl>www.fsdmfes.ac.ma/</organizationUrl>
+      <roles>
+      	<role>Teacher-researcher</role>
+        <role>architect</role>
+        <role>developer</role>
+      </roles>
+  </developer>
+  </developers>
+  <scm>
+  	<url>https://github.com/yassern1/AtelierGL/</url>
+  	<connection>scm:git:git://github.com/yassern1/AtelierGL/</connection>
+  </scm>
 </project>
