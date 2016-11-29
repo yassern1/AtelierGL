@@ -8,7 +8,12 @@ public class Vol {
 		
 	}
 	public void fermerReservation(){
+	
+	public void ouvrirReservation () {
 		
 	}
 
+	public void fermerReservation () {
+		
+	}
 }
