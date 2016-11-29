@@ -1,4 +1,4 @@
-package edu.ensa.fly.tests;
+package main.java.edu.ensa.fly.tests;
 
 
 
