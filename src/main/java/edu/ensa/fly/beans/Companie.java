@@ -1,5 +1,5 @@
 
-package edu.ensa.fly.beans;
+package main.java.edu.ensa.fly.beans;
 public class Companie {
 	private String id_comp;
 	private String n_comp;

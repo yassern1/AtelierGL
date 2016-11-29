@@ -1,4 +1,4 @@
-package edu.ensa.fly.tests;
+package test.java.edu.ensa.fly.tests;
 
 
 
@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import edu.ensa.fly.beans.Client;
+import main.java.edu.ensa.fly.beans.Client;
 
 
 public class TestClient {
