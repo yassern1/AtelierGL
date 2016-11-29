@@ -1,4 +1,4 @@
-package edu.ensa.fly.main;
+package main.java.edu.ensa.fly.main;
 
 public class Principal {
 	public Principal(){

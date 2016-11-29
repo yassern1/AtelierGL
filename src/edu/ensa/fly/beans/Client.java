@@ -28,5 +28,4 @@ public String getPrenom_clt() {
 public void setPrenom_clt(String prenom_clt) {
 	this.prenom_clt = prenom_clt;
 }
-  
 }
